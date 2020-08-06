@@ -1,0 +1,60 @@
+blockquote {
+  width: 70%;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 32px;
+  margin-top: 1.5em;
+}
+
+table,
+th,
+tr,
+td {
+  border: solid 1px;
+}
+
+.clear {
+  float: none;
+}
+
+figure {
+  float: right;
+  display: table;
+}
+
+figcaption {
+  display: table-caption;
+  caption-side: bottom;
+  font-style: italic;
+  white-space: nowrap;
+}
+
+img {
+  float: right;
+}
+
+article {
+  width: 70%;
+  margin-left: 15%;
+  padding-top: 1.5em;
+  overflow: hidden;
+}
+
+.base {
+  padding-top: 0em;
+}
+
+.century {
+  padding-top: 0em;
+}
+
+span {
+  font-size: larger;
+}
